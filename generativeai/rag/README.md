@@ -10,7 +10,7 @@ This Notebook implements the foundational stages of a RAG pipeline. The project 
 *   **Vector Embeddings:** Generates semantic vectors using OpenAI's `text-embedding-ada-002` model.
 *   **Vector Store Integration:** Stores raw text chunks alongside their corresponding embeddings in a local DeepLake dataset.
 
----
+
 ### Architecture Overview
 
 #### Pipeline Component #1: Data Collection & Preparation

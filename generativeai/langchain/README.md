@@ -11,6 +11,7 @@ This repository contains a comprehensive Jupyter Notebook (`langchain_various.ip
    - Distance calculation and geometric validation via `scipy.spatial`.
    - Vector libraries and databases (Faiss, Chroma, DocArray, Pinecone, Qdrant).
    - Specialized retrieval pipelines featuring `KNNRetriever` and `PubMedRetriever`.
+   
 6. **Agentic Frameworks**: Implementation of ReAct agents using `create_react_agent` along 
 with execution strategies like Zero-shot ReAct and Plan-and-Solve.
 
@@ -22,5 +23,4 @@ The notebook includes a production-ready, interactive Streamlit full-stack app d
 - **Retrieval Engine**: Performs Maximum Marginal Relevance (`mmr`) filtering to ensure diverse context fetching.
 - **Interface**: Implements a chat interface via Streamlit using a streaming `ConversationalRetrievalChain`.
 
----
-*Generated as documentation asset reference.*
+
